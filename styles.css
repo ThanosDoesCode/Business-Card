@@ -41,6 +41,7 @@ body {
     transform: scale(1.1); /* Scale the text by 10% */
     transition: transform 0.5s; /* Smooth scaling effect */
     transition-delay: 0ms;
+    transition: h3 1s, p 1s, h4 1s;
 }
 
 
