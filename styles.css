@@ -44,7 +44,7 @@ body {
     
 }
 
-.info h3, h4, p{
-    transition: h3 1s, p 1s, h4 1s;
+.info {
+    transition: h3 1s, h4 1s, p 1s;
 }
 
